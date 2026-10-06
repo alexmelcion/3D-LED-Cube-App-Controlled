@@ -13,4 +13,4 @@ The cube is controlled via a custom Android application.
 * The `App_Assets` folder contains the standalone icons, images, and UI elements used in the app. They are included here so you can quickly preview the visual design and graphical interface without needing to import the project file.
 
 ## 🎥 Demo
-https://youtube.com/shorts/pU0AcMcoRYM
+https://youtube.com/shorts/Fro02aIeT4Q
