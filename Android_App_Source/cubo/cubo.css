@@ -1,0 +1,55 @@
+body {
+    background-size: 750px;
+    font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: left;
+}
+
+button {
+    border: none;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+.butt {
+    background: white;
+    width: 60px;
+    height: 60px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: black;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.flecha {
+    background: white;
+    width: 35px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    margin-left: 30px;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.fle{
+    width: 60px;
+    height: 60px;
+}
+
+.led {
+    width: 60px;
+    height: 60px;
+  }
+
+#text {
+    margin-left: 20px;
+    font-size: 35px;
+}
+
+.bajo-texto{
+    align-items: center;
+}

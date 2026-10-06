@@ -1,0 +1,36 @@
+body {
+	background: #ffffff;
+}
+
+.button-box {
+	width: 240px;
+	position: absolute;
+	border-radius: 30px;
+	background: #ececec;
+	-webkit-tap-highlight-color: transparent;
+}
+
+.toggle-btn {
+	width: 115px;
+	padding: 10px;
+	cursor: pointer;
+	background: transparent;
+	border: 0;
+	outline: none;
+	position: relative;
+	text-align: center;
+	font-family:'Segoe UI';
+	-webkit-tap-highlight-color: transparent;
+}
+
+#btn {
+	left: 0;
+	top: 0;
+	position: absolute;
+	width: 120px;
+	height: 100%;
+	background: #cccccc;
+	border-radius: 30px;
+	transition: 0.25s;
+	-webkit-tap-highlight-color: transparent;
+}
